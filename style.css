@@ -122,6 +122,12 @@ a {
         width: 100%;
         font-size: 3vw;
     }
+    
+    .topnav .row .col-md-6 ul li:hover{
+        padding-bottom: 0;
+        border: none;
+    }
+    
     .topnav .row .col-md-6 ul li a{
         color: hsl(233, 26%, 24%);
     }
