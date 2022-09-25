@@ -326,6 +326,10 @@ div.mockup div.phone {
     .why-easybank div h2 {
         font-size: 5.6vw;
     }
+    
+    .why-easybank div p.why-text{
+        width: 100%;
+    }
 
     .why-easybank div>p {
         width: 100%;
